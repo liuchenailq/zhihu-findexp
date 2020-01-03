@@ -5,8 +5,6 @@ B榜排名：第6
 最终分数：0.88696
 
 # 文件说明
-![image](https://img-blog.csdnimg.cn/2020010314321243.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzMwMzc0NTQ5,size_16,color_FFFFFF,t_70)
-
 - model。该文件夹下存放团队三人的模型文件和相应的测试集特征文件，按照运行说明文档即可复现线上成绩。文件较大，请移步https://pan.baidu.com/s/1b10Gq9pcfHrsCeKURiXmHA
 提取码：4ba2  下载。
 - liuchen、shuxiufeng、sunrui。这三个文件夹分别存放团队三人的特征提取、模型训练的完整代码。请按照各自的说明文档进行运行。
