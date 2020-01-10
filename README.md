@@ -28,6 +28,7 @@ B榜排名：第6
 
 # 其他大神的分享
 - 第四名 lpl总冠军的分享（[github链接](https://github.com/VoldeMortzzz/2019Baai-zhihu-Cup-findexp-4th)）。
+- 第七名 专家在哪里的分享 （[github链接](https://github.com/jt120/BAAI-zhihu-2019)）。
 
 
 **整理不易，点个star支持下呗。**
